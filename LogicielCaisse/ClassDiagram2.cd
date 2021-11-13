@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LogicielCaisse.AccessControl">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AccessControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.CalculPrix">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CalculPrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.DataImport">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataImport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.Form1">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="connectionButton" Hidden="true" />
+      <Field Name="fichierLabel" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="importerPrixButton" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="mdpTextBox" Hidden="true" />
+      <Field Name="nomTextBox" Hidden="true" />
+      <Field Name="nouveauPanierButton" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="poidsTextBox" Hidden="true" />
+      <Field Name="produitComboBox" Hidden="true" />
+      <Field Name="recapitulatifLabel" Hidden="true" />
+      <Field Name="terminerButton" Hidden="true" />
+      <Field Name="totalTextBox" Hidden="true" />
+      <Field Name="validerButton" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EACQAAEAwKYAYBSAAACEQUAKEAgAQAAAACCQAAAIAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.LecturePrix">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LecturePrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.Program" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.Ticket">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicielCaisse.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
